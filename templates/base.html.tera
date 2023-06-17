@@ -4,8 +4,6 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="Description" content="Author: Gunwant Jain,
-    A highly opinionated and minimalistic Pastebin." />
 
   <link rel="apple-touch-icon" href="/static/media/apple-touch-icon.png" />
   <link rel="icon" type="image/png" sizes="192x192" href="/static/media/android-chrome-192x192.png" />
@@ -30,15 +28,15 @@
 
     body {
       /* Change background color to that of your theme's */
-      background: #0f1419;
+      background: #040404;
       padding: 10px;
-      color: #E6E1CF;
+      color: #9fdee3;
     }
 
     ::selection {
       /* text selection color
              make sure to change to your your preferred color if changing the default colorscheme */
-      background: #253340;
+      background: #496166;
     }
   </style>
   {% block styles %}

@@ -15,7 +15,7 @@ body {
 }
 
 form.highlight {
-    border: 1vh dashed #F29718;
+    border: 1vh dashed #040404;
 }
 
 .grid_form {
@@ -59,7 +59,7 @@ textarea {
 
 select {
     color: inherit;
-    background-color: #0f1419;
+    background-color: #4f4f4f;
     border: none;
     width: 100%;
     font-family: inherit;
@@ -74,23 +74,23 @@ option {
 }
 
 option:focus {
-    background-color: #E6E1CF;
-    color: #0f1419;
+    background-color: #bfeff8;
+    color: #4f4f4f;
 }
 
 option:checked {
-    background-color: #E6E1CF;
-    color: #0f1419;
+    background-color: #bfeff8;
+    color: #4f4f4f;
 }
 
 option:hover {
-    background-color: #E6E1CF;
-    color: #0f1419;
+    background-color: #bfeff8;
+    color: #4f4f4f;
 }
 
 button[type="submit"] {
-    background-color: #F29718;
-    color: #0f1419;
+    background-color: #040404;
+    color: #4f4f4f;
     border: none;
     height: 100%;
     width: 100%;
@@ -101,7 +101,7 @@ button[type="submit"] {
 }
 
 button[type="submit"]:hover {
-    background-color: #be7611;
+    background-color: #94e4f4;
 }
 
 #upload_card {
