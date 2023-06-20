@@ -59,7 +59,7 @@ textarea {
 
 select {
     color: inherit;
-    background-color: #4f4f4f;
+    background-color: #1d1d1d;
     border: none;
     width: 100%;
     font-family: inherit;
@@ -89,8 +89,8 @@ option:hover {
 }
 
 button[type="submit"] {
-    background-color: #040404;
-    color: #4f4f4f;
+    background-color: #bfeff8;
+    color: #040404;
     border: none;
     height: 100%;
     width: 100%;
