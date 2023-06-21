@@ -7,8 +7,7 @@ use syntect::parsing::SyntaxSet;
 
 static SYNTAXES: &[u8] =
     include_bytes!("../../resources/syntaxes/syntaxes.bin");
-static THEMES: &[u8] =
-    include_bytes!("../../resources/themes/isotope_dark.tmTheme");
+static THEMES: &[u8] = include_bytes!("../../resources/themes/w3css.tmTheme");
 
 pub fn get_pretty_body(path: &Path, ext: &str) -> std::io::Result<String> {
     let ss: SyntaxSet = syntect::dumps::from_binary(SYNTAXES);
