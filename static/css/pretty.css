@@ -10,8 +10,8 @@ span {
 .topRightBox {
   position: fixed;
   padding: 18px 10px;
-  color: #2acaea;
-  background-color: #040404;
+  color: #0dcdcd;
+  background-color: #000000;
   top: 0px;
   right: 0px;
   font-family: "Iosevka Web", monospace;
@@ -27,7 +27,7 @@ span {
   background-color: inherit;
   margin: 0px 5px;
   border: solid 0.2px;
-  border-color: #4f4f4f;
+  border-color: #0dcdcd;
   font-family: inherit;
   font-size: inherit;
   line-height: inherit;
@@ -35,7 +35,7 @@ span {
 }
 
 .topRightBox button:hover {
-  color: #94e4f4;
+  color: #14ffff;
 }
 
 .rootBox {
