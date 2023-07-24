@@ -9,6 +9,7 @@
     pre {
         margin: 0px;
         font-family: 'Iosevka Web', monospace;
+        font-size: 0.9em;
     }
 </style>
 <link rel="stylesheet" href="/static/css/pretty.css">
