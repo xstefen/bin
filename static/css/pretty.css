@@ -5,6 +5,7 @@
 span {
   word-wrap: break-word;
   white-space: pre-wrap;
+  font-size: 0.8em;
 }
 
 .topRightBox {
